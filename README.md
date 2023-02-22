@@ -23,3 +23,38 @@ The app also uses the splice method to update the state of the task list. This m
 
 ## 🎨 Styling
 The app is styled using a combination of custom CSS and React Native's built-in styling properties. The colors used are vibrant and appealing to the eye, making it easy for users to identify different elements in the UI.
+## Installation
+
+###  👨‍💻 Cloning and Running the Project
+To clone this project, follow these steps:
+
+#### 1️  - Open the command prompt and navigate to the desired directory
+
+#### 2️ - Run the command:
+```bash
+git clone https://github.com/Rohit-Nandagawali/todo-app-react-native.git
+```
+
+#### 3 - Navigate to the project folder and run the command:
+ 
+```bash
+  npm install
+```
+#### 4 - Once the installation is complete, run the command: 
+```bash
+  npx react-native run-android
+```
+OR
+```bash
+  npx react-native run-ios
+```
+ depending on your device
+
+#### 👍 That's it! You have successfully cloned and run the Todo app.
+
+    
+## Authors
+
+- [@Rohit-Nandagawali](https://www.github.com/Rohit-Nandagawali)
+
+## Made with ❤
